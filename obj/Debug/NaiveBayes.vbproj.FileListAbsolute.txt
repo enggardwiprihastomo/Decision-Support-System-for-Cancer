@@ -1,0 +1,20 @@
+c:\users\tictoc group\documents\visual studio 2012\Projects\NaiveBayes\NaiveBayes\bin\Debug\NaiveBayes.exe.config
+c:\users\tictoc group\documents\visual studio 2012\Projects\NaiveBayes\NaiveBayes\bin\Debug\NaiveBayes.exe
+c:\users\tictoc group\documents\visual studio 2012\Projects\NaiveBayes\NaiveBayes\bin\Debug\NaiveBayes.pdb
+c:\users\tictoc group\documents\visual studio 2012\Projects\NaiveBayes\NaiveBayes\bin\Debug\NaiveBayes.xml
+c:\users\tictoc group\documents\visual studio 2012\Projects\NaiveBayes\NaiveBayes\obj\Debug\NaiveBayes.Form1.resources
+c:\users\tictoc group\documents\visual studio 2012\Projects\NaiveBayes\NaiveBayes\obj\Debug\NaiveBayes.Resources.resources
+c:\users\tictoc group\documents\visual studio 2012\Projects\NaiveBayes\NaiveBayes\obj\Debug\NaiveBayes.vbproj.GenerateResource.Cache
+c:\users\tictoc group\documents\visual studio 2012\Projects\NaiveBayes\NaiveBayes\obj\Debug\NaiveBayes.exe
+c:\users\tictoc group\documents\visual studio 2012\Projects\NaiveBayes\NaiveBayes\obj\Debug\NaiveBayes.xml
+c:\users\tictoc group\documents\visual studio 2012\Projects\NaiveBayes\NaiveBayes\obj\Debug\NaiveBayes.pdb
+c:\users\tictoc group\documents\visual studio 2012\Projects\NaiveBayes\NaiveBayes\obj\Debug\NaiveBayes.Form2.resources
+c:\users\tictoc group\documents\visual studio 2012\Projects\NaiveBayes\NaiveBayes\obj\Debug\NaiveBayes.Form3.resources
+C:\Users\TICTOC GROUP\documents\visual studio 2012\Projects\NaiveBayes\NaiveBayes\obj\Debug\NaiveBayes.Form4.resources
+C:\Users\TICTOC GROUP\documents\visual studio 2012\Projects\NaiveBayes\NaiveBayes\obj\Debug\NaiveBayes.vbprojResolveAssemblyReference.cache
+C:\Users\TICTOC GROUP\documents\visual studio 2012\Projects\NaiveBayes\NaiveBayes\obj\Debug\NaiveBayes.Form5.resources
+C:\Users\TICTOC GROUP\documents\visual studio 2012\Projects\NaiveBayes\NaiveBayes\obj\Debug\NaiveBayes.Form6.resources
+D:\Enggar\Jobs\Projects\Novilia\NaiveBayes\NaiveBayes\NaiveBayes\bin\Debug\NaiveBayes.exe.config
+D:\Enggar\Jobs\Projects\Novilia\NaiveBayes\NaiveBayes\NaiveBayes\obj\Debug\NaiveBayes.exe
+D:\Enggar\Jobs\Projects\Novilia\NaiveBayes\NaiveBayes\NaiveBayes\obj\Debug\NaiveBayes.xml
+D:\Enggar\Jobs\Projects\Novilia\NaiveBayes\NaiveBayes\NaiveBayes\obj\Debug\NaiveBayes.pdb
